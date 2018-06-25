@@ -268,9 +268,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
-<h3>
+<h3>Setup</h3>
+
 We'll be using Amazon instances for the workshop. So, the only software you'll need to have or install is:
 
-- For Windows: PuTTY (install instructions on <a href=http://www.datacarpentry.org/cloud-genomics/02-logging-onto-cloud/>this page</a>
+- For Windows: PuTTY (install instructions on <a href="http://www.datacarpentry.org/cloud-genomics/02-logging-onto-cloud/">this page</a>
 - For MacOS: Terminal (already installed on your computer)
 - For Linux: A terminal (already installed on your computer)
