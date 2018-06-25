@@ -185,8 +185,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <h2 id="surveys">Surveys</h2>
 
 <p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="https://www.surveymonkey.com/r/dcpreworkshopassessment">Pre-workshop Survey</a></p>
-<p><a href="{https://www.surveymonkey.com/r/dcpostworkshopassessment">Post-workshop Survey</a></p>
+<p><a href="https://www.surveymonkey.com/r/dcpreworkshopassessment?workshop_id=2018-06-26-BOSC">Pre-workshop Survey</a></p>
+<p><a href="{https://www.surveymonkey.com/r/dcpostworkshopassessment?workshop_id=2018-06-26-BOSC">Post-workshop Survey</a></p>
 
 
 <hr/>
